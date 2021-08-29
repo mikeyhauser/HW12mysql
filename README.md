@@ -1,7 +1,9 @@
-# Unit 12 MySQL Homework: Employee Tracker
+# MySQL: Employee Tracker
 
+View a demonstration of the functional database in action:
+https://drive.google.com/file/d/1nW62Tu2S_RInYUMsfuBNPu_eCflagcg2/view
 
-This Command Line Interface manageds a database schema containing three tables:
+This Command Line Interface manages a database schema containing three tables:
 
 * **department**:
   * **id** - INT PRIMARY KEY
